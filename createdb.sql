@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS snacks;
+DROP DATABASE IF EXISTS snacks_test;
+
+CREATE DATABASE snacks;
+CREATE DATABASE snacks_test;
